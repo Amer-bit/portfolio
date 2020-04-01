@@ -1,0 +1,8 @@
+strong, b {
+    font-weight: 300;
+    color: #666;
+}
+
+em, i {
+    font-style: italic;
+}
